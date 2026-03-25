@@ -4,9 +4,9 @@ Note: For the best reading experience and proper formatting, please download the
 
 Repository Contents: 
 
-  1. Anonymised Annotation Guidelines
+  1. Med2Story Referential Annotation Guidelines
 
-  Located in Anonymised_Guidelines.pdf, this document provides a detailed description of the annotation scheme, including the definitions of annotation categories and practical instructions for annotators.
+  Located in Med2Story_Referential.pdf, this document provides a detailed description of the annotation scheme, including the definitions of annotation categories and practical instructions for annotators.
 
   2. Annotation Results
 
